@@ -19,19 +19,19 @@ _🎯 Follow me and star this repo for more telegram bots._
 ## 📌 Deployment
 - Deploy to **Heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/VoiceChatStreamer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umashankar3/VoiceChatStreamer)
 
 - Deploy to **Railway**
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAnjanaMadu%2FVoiceChatStreamer&envs=API_ID%2CAPI_HASH%2CSESSION%2CTOKEN%2CCHAT_ID%2CADMINS&referralCode=n3n8cH)
 
-### 🏷 Radio Stations. [Click here](https://github.com/AnjanaMadu/radio_stations)
+### 🏷 Radio Stations. [Click here](https://github.com/umashankar3/radio_stations)
 
-_If you like to add your country radio stations, Please open pull request [here](https://github.com/AnjanaMadu/radio_stations)_
+_If you like to add your country radio stations, Please open pull request [here](https://github.com/umashankar3/radio_stations)_
 
 ### 🏷 Deployment Guide 
 
-_Note: How to use? You need to add String session own's user to your group. Ok now you added userbot to your group. Then do `!help`. Now you can get help menu. Read it and Do what you want by reffering help menu. For help [@harp_chat](https://t.me/harp_chat)_
+_Note: How to use? You need to add String session own's user to your group. Ok now you added userbot to your group. Then do `!help`. Now you can get help menu. Read it and Do what you want by reffering help menu. For help [@harp_chat](https://t.me/shayri_jok)_
 
 <details>
   <summary>How to get <code>API_ID</code> and <code>API_HASH</code></summary>
@@ -98,7 +98,7 @@ _Note: How to use? You need to add String session own's user to your group. Ok n
 ## 📌 License
 ```
 VoiceChatStreamer, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu <https://github.com/AnjanaMadu>
+Copyright (c) 2021 Anjana Madu <https://github.com/umashankar3>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
