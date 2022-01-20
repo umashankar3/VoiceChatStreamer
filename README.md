@@ -1,7 +1,7 @@
 # Voice Chat Streamer
 _This bot can stream audio or video files and urls in telegram voice chats :)_
 
-![GitHub Repo stars](https://img.shields.io/github/stars/AnjanaMadu/VoiceChatStreamer?color=green&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/umashankar3/VoiceChatStreamer?color=green&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/AnjanaMadu/VoiceChatStreamer?color=green&logo=github)
 ![TG Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@harp_tech&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dharp_tech&logo=telegram)
 ![TG Chat](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@harp_chat&query=online&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dharp_chat&logo=telegram)
@@ -61,7 +61,7 @@ _Note: How to use? You need to add String session own's user to your group. Ok n
   - `sudo bash get-docker.sh`
   - `rm get-docker.sh`
 - Cloning Repo and Go to dir
-  - `git clone https://github.com/AnjanaMadu/VoiceChatStreamer bot`
+  - `git clone https://github.com/umashankar3/VoiceChatStreamer bot`
   - `cd bot`
 - _Now edit "config.py" with your values._
 - Docker Build
